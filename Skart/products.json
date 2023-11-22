@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" LD01 LOUNGE CHAIR",
+        "price": 200,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" IPhone 15 Max Pro",
+        "price": 250,
+        "image": "image/2.webp"
+    },
+    {
+        "id": 3,
+        "name":" AirPods-Pro-2nd-generation",
+        "price": 290,
+        "image": "image/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" watch-9-3",
+        "price": 2000,
+        "image": "image/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Lmacbook-air-m1-1",
+        "price": 3000,
+        "image": "image/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" marshall-kilburn-ii-black-brass-01",
+        "price": 200,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Sennheiser HD 820 Wired Over The Ear Headphones Without Mic (Black)",
+        "price": 2500,
+        "image": "image/7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" SOFT TOYS Long ",
+        "price": 200,
+        "image": "image/8.jpg"
+    }
+
+]
